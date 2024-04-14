@@ -1,0 +1,561 @@
+[{
+  "_id": {
+    "$oid": "6610db3712f5138eb54eb08a"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47815.jpg?v=1&w=350&h=510",
+  "nameBook": "Quyến rũ vô hạn ",
+  "descriptionBook": "Sau khi được cô vợ là bác sĩ thú y cứu chữa, cậu chủ Khanh không che giấu nổi bản chất trung khuyển* của mình.\n\nCậu chủ Khanh bưng bát cơm, nghiêm mặt nói: “Ngoan ngoãn ăn cơm nào!”\n\nY Ngôn hỏi: “Không ăn thì sao?”\n\nCậu chủ Khanh dõng dạc: “Anh sẽ cạo trụi lông con mèo em nuôi!”\n\nY Ngôn: “… Làm người ai lại làm thế!”\n\nCậu chủ Khanh từng tuyên bố:\n\n“Tôi luôn là người đàn ông có địa vị cao nhất nhà, trừ khi bà xã tôi nổi giận.”\n\n“Bà xã, mở cửa cho anh vào nhà đi mà! Anh sẽ không hơn thua với chó mèo trong nhà nữa!”\n\nMãi đến một ngày nọ, cậu chủ Khanh phát hiện vợ mình không chỉ là một bác sĩ thú y bình thường… Vừa hay, anh cũng không phải.\nWaka trân trọng giới thiệu tác phẩm Quyến rũ vô hạn - Tác giả Nữu Nữu Mật.",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Nữu Nữu Mật",
+      "_id": {
+        "$oid": "660e5e9515f46b8efffd4a40"
+      }
+    }
+  ],
+  "publishingCompany": "Đang cập nhật",
+  "comments": [
+    {
+      "$oid": "66129ace917e29e62d0c827f"
+    },
+    {
+      "$oid": "6616976c8658ebfd9bdea6f4"
+    }
+  ],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Ngôn tình",
+      "_id": {
+        "$oid": "661002d73ff31cc7d572a41c"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6610dbb212f5138eb54eb0a6"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47458.jpg?v=1&w=480&h=700\n",
+  "nameBook": "Boss phản diện ngày ngày tìm đường chết",
+  "descriptionBook": "Hệ thống nói rằng chỉ cần tăng doanh số bán sách thì cô sẽ sống lại, vì vậy, Trần Khê xắn tay áo lên...\n\nSau khi trải qua n thế giới, hệ thống cảm thấy có gì đó sai sai, sao bộ truyện tình tiết vô lý đùng đùng này lại lọt vào danh sách best seller được nhỉ?\n\nTrần Khê rầu rĩ nhìn lên trời: Toàn là nhờ đồng nghiệp làm nền ấy mà.\n\nNhiều năm sau, trùm phản diện yêu chiều vợ hết mực, giàu nứt đố đổ vách, vung tay nạp tiền trong trò chơi như rác, lúc này đang ôm “cục bông” nghiêm túc nói: Cha mẹ vốn dĩ không có duyên, tất cả là nhờ cha nện tiền đấy.\n\nHệ thống: Ký chủ của tôi là kẻ tâm thần luôn muốn đâm đầu vào chỗ chết... nhưng lại có hậu phương giàu sụ. Tôi khổ quá mà!\n\n(IQ của nữ chính tùy theo tác giả, từ đầu đến cuối chỉ có một nam chính, có một vài thế giới không có cặp đôi vì nam chính không xuất hiện. Hết cách, ai bảo nam chính donate rất nhiều cho tác giả, nên cốt truyện mới được sắp xếp như vậy.)\n\nWaka trân trọng giới thiệu bộ truyện Boss phản diện ngày ngày tìm đường chết - tác giả Nữu Nữu Mật.",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Nữu Nữu Mật",
+      "_id": {
+        "$oid": "660e5e9515f46b8efffd4a40"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Lao Động",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Trinh thám - Kinh dị",
+      "_id": {
+        "$oid": "661003033ff31cc7d572a420"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66112fe262f902a02569c461"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47275.jpg?v=1&w=350&h=510",
+  "nameBook": "Cô vợ minh tinh của tổng giám đốc",
+  "descriptionBook": "Tiêu đề tin tức của ngày nào đó: “Ngôi sao nữ đang nổi Lạc Tiểu Ngân cướp chồng chưa cưới của em gái!”\nLạc Tiểu Ngân hóng drama: “Sai rồi, đây gọi là ăn miếng trả miếng!”\nKhi mọi chuyện lắng xuống, người đàn ông nào đó túm lấy cô gái nào đó đang định chuồn đi sau khi ăn no chùi sạch: “Muốn trốn à?”\n“Trốn?! Bà đây thích đến thì đến, thích đi thì đi…”\nNgười đàn ông nào đó áp sát: “Trả lại tôi “quả dưa nhỏ” trong bụng em rồi hãy tính.”\n“Cái này… giả, giả đấy.” Lạc Tiểu Ngân run lẩy bẩy…\n\nWaka trận trọng giới thiệu bộ truyện Cô vợ minh tinh của tổng giám đốc - tác giả Tiêu Thanh Yết Tần Lâu.",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Tiêu Thanh Yết Tẩn Lâu",
+      "_id": {
+        "$oid": "66112fe362f902a02569c465"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Lao Động",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Ngôn tình",
+      "_id": {
+        "$oid": "661002d73ff31cc7d572a41c"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6611303e62f902a02569c46d"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47245.jpg?v=2&w=350&h=510",
+  "nameBook": "Sống lại trở thành đại lão giới khoa học",
+  "descriptionBook": "Kiếp trước, Lâu Minh Nguyệt là huyền thoại ở Đế Đô, mới hai mươi hai tuổi đã là “đại lão siêu cấp” đứng trên thần đàn, trở thành đỉnh cao không thể chạm tới trong lòng vô số người, đến cuối cùng, cô bị thân tín hãm hại, chết ở tuổi hai mươi lăm.\nKhi cô mở mắt lần nữa, cô đã sống lại vào hai mươi năm sau, trở thành một cô học trò dốt nát lớp 11 trường cấp ba Lâm Nam.\nSau đó…\nĐám gà con run rẩy: “Giang Phù Nguyệt lại được điểm tuyệt đối nữa rồi! Thầy dạy Lý lại tới tìm cậu ấy để so đáp án! Thầy Toán nói tháng sau để Nguyệt Nguyệt ra đề thi!”\n***\nDạo này Cửu gia nhà họ Tạ rất đau đầu, cháu trai vừa mới chuyển trường đã bị đánh, nghe nói đối phương còn là một nữ sinh chưa tới năm mươi cân.\nHai ngày sau…\nCháu trai nhỏ: “Cậu ơi, cháu muốn theo đuổi cô ấy!”\nCửu gia: “Đầu óc không bị gì chứ?”\nLại sau đó…\nCửu gia: “Đầu óc mình có vấn đề.”\n(Phần này có để truyền thông thêm)\nĐại lão số 1: “Chỉ khi cô ấy trở về thì thế giới của tôi mới có ánh sáng.”\nĐại lão số 2: “Cô ấy muốn ngôi sao thì tôi sẽ đi hái, cô ấy muốn mặt trăng thì tôi sẽ đi lấy, dùng tất cả khả năng của mình để đổi lấy nụ cười của cô ấy.”\nĐại lão số 3: “Chị ơi, chị tha thứ cho em được không? Em cho chị tiền, cho chị công ty, tính mạng cũng cho chị.”\n...\nĐại não số n: “Một ngày là đàn em thì suốt đời là đàn em. Uống tách trà này, người ta lại là người của cô, híc!”\nTất cả bọn nhóc con đều trợn mắt há hốc mồm: Ông nội của tôi/chú hai/cậu ba/cô cả/bà cố/ông cố/... đều điên rồi ư?\nCô là mặt trăng trên trời, ánh sáng không bao giờ tắt, ngọn đèn dẫn đường, giọt máu đỏ, là tín ngưỡng của mọi người.",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Du Nhân",
+      "_id": {
+        "$oid": "6611303f62f902a02569c471"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Lao động",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Ngôn tình",
+      "_id": {
+        "$oid": "661002d73ff31cc7d572a41c"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "661130a062f902a02569c479"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47170.jpg?v=1&w=350&h=510",
+  "nameBook": "[Bản đọc thử] Tết ở làng Địa Ngục",
+  "descriptionBook": "Năm đó, tại một ngôi làng xa xôi trên một ngọn núi hoang vu, người ta đón Tết trong sự kinh hãi tột độ, hoài nghi đau đáu và giận dữ khôn cùng trước sự ập tới của những bi kich tàn khốc.\n\nNgôi làng ấy vốn dĩ không có tên, nhưng những người nơi đây mặc định chốn này là địa ngục. Dân trong làng không ai dám tự ý băng rừng thoát khỏi làng, càng không biết thế giới bên ngoài rộng lớn như thế nào, bởi lẽ họ sợ người khác sẽ biết rằng bản thân mình vốn là hậu duệ của băng cướp khét tiếng ở truông nhà Hồ dưới thời chúa Nguyễn ở Đàng Trong.\n\nVào một đêm cuối năm rét buốt, ông Thập – người duy nhất có thể ra khỏi làng – được báo mộng bởi một âm hồn mặc quan phục màu đỏ rực. Làng Địa Ngục sắp gặp họa lớn!\n\nThành danh bằng những tác phẩm văn học kinh dị đậm chất Việt Nam được phát hành qua mạng, lần này tác giả Thảo Trang tiếp tục mang đến một câu chuyện hấp dẫn, mở ra một thế giới huyền bí với những sinh vật, thế lực siêu linh mà người đọc không bao giờ hết hứng thú, để lại những dư âm không phai khi gấp sách lại.\n\nTết ở làng Địa Ngục là một trong những tác phẩm kinh dị siêu linh đậm chất Việt Nam vô cùng ăn khách của tác giả Thảo Trang. Tác phẩm đưa người đọc về một thời xa xưa, với bối cảnh là một ngôi làng xa xôi trên ngọn núi hoang vu. Ở đó, người ta đón tết trong sự kinh hãi tột độ, hoài nghi đau đáu và giận dữ khôn cùng trước sự ập tới của những bi kịch tàn khốc.\n\nWaka trân trọng giới thiệu bản đọc thử tác phẩm Tết ở làng Địa Ngục của nhà văn Thảo Trang!",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Thảo Trang",
+      "_id": {
+        "$oid": "661130a062f902a02569c47d"
+      }
+    }
+  ],
+  "publishingCompany": "Đang Cập Nhật",
+  "comments": [
+    {
+      "$oid": "6619442b7e7a1f5b24c7af03"
+    },
+    {
+      "$oid": "661bccfdef8605ac6704a6c2"
+    }
+  ],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Trinh thám - Kinh dị",
+      "_id": {
+        "$oid": "661003033ff31cc7d572a420"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6611314d62f902a02569c485"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47140.jpg?v=1&w=350&h=510",
+  "nameBook": "Cẩm nang xử lý cực phẩm",
+  "descriptionBook": "Tô Phức Đồng sống lại, chuyện cô làm đầu tiên chính là treo hết thảy nhà chồng cực phẩm lên tẩn cho một trận, tay không đánh cả chồng cũ.\n\nCô chỉ muốn yên ổn nuôi con nhỏ, trồng trà, sống những tháng ngày tu thân dưỡng tính, ai ngờ gã chồng cũ này vẫn cứ dây dưa không dứt. Mà đám phụ nữ quanh anh còn không ngừng lượn lờ múa may trước mặt cô, muốn giết hai mẹ con cô!\n\nCô bị chọc giận, vỗ bàn nhảy dựng lên: Bà đây không phát uy, chúng mày tưởng bà là mèo hen đúng không? Đã thế chống mắt nhìn bà xử lý xong gã chồng chết tiệt này, trói hắn lại rồi sẽ treo chúng mày lên đánh, xem ai còn dám đến đòi làm ấm giường cho hắn nữa?\n\nCô đường đường là vua hệ thống, sao trơ mắt nhìn người ta tới bắt nạt mình chứ! Ai không phục hả? Đến đây, một chọi một!\n\nWaka trân trọng giới thiệu bộ truyện \"Cẩm nang xử lý cực phẩm\" - tác giả Mộng Huyễn Tư Thi!",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Mộng Huyễn Tư Thi",
+      "_id": {
+        "$oid": "6611314d62f902a02569c489"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Lao Động",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Ngôn tình",
+      "_id": {
+        "$oid": "661002d73ff31cc7d572a41c"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "661132fa62f902a02569c4d8"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47116.jpg?v=1&w=350&h=510",
+  "nameBook": "Đại Yến có một nữ thần thám",
+  "descriptionBook": "Ngân khố bị mất cắp, xác chết không đầu của tăng nhân trong ngôi chùa trên núi… Từng vụ án bí ẩn như tầng sương mù bao phủ ngọn núi. Tự sát? Bị sát hại? Hay đột tử? Hết cỗ thi thể này đến cỗ thi thể khác như đang âm thầm tố cáo điều gì đó. Dịch Trường An, một nữ cảnh sát hình sự vô tình xuyên không đến triều đại Đại Yến. Ở đây, nàng đã dùng sự tài trí của mình, giải quyết lần lượt nhiều vụ án bí ẩn. Nhưng lại không ngờ bản thân đã bị cuốn vào âm mưu của kẻ khác lúc nào chẳng hay. Mà sự can thiệp của một tên Cẩm y vệ càng khiến con đường nàng đi trở nên mù mịt…\n\nWaka trân trọng giới thiệu tác phẩm trinh thám cổ đại Đại Yến có một nữ thần thám - tác giả Kim Trùng Lâu!",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Kim Trùng Lâu",
+      "_id": {
+        "$oid": "661132fa62f902a02569c4dc"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Lao động",
+  "comments": [
+    {
+      "$oid": "66129a7b917e29e62d0c8237"
+    },
+    {
+      "$oid": "66129a90917e29e62d0c8246"
+    }
+  ],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Ngôn tình",
+      "_id": {
+        "$oid": "661002d73ff31cc7d572a41c"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "661133b862f902a02569c4e4"
+  },
+  "labelBook": "Miễn Phí",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47113.jpg?v=1&w=350&h=510",
+  "nameBook": "Những vụ án kỳ bí",
+  "descriptionBook": "Bạn có thể tưởng tượng được nỗi sợ khi coi giết người là nghệ thuật, là niềm vui không?\n\nNhững tội ác đẫm máu tươi dưới ngòi bút của tác giả không chỉ đơn giản như vẻ bề ngoài.\n\nBạn có thể tưởng tượng một tên đồ tể trốn khỏi vòng pháp luật sống ngay bên cạnh bạn, còn làm bạn với bạn đáng sợ đến mức nào không? Đừng hỏi nguyên nhân, có lẽ đêm khuya khi mở mắt ra, đã có kẻ vung búa đập vào đầu bạn. Đừng yêu cầu giải thích, có lẽ bạn chỉ rẽ vào một ngõ nhỏ thôi, đã có bóng đen dùng dây thừng siết chặt cổ bạn, hoặc đổ axit vào cổ họng bạn rồi.\n\nTám vụ án kỳ bí tác giả đã đích thân trải qua và kể lại cho chúng ta không chỉ là những vụ án đẫm máu nhất, mà xét về mức độ giảo hoạt của tội phạm, sự tàn nhẫn của thủ đoạn, đam mê xử lý thi thể kỳ quái, sự kỳ lạ của cả vụ án cùng câu chuyện đằng sau nó đều khiến bạn phải thét lên sợ hãi. Những câu chuyện này, kể ra chưa chắc bạn đã tin, nhưng tất cả mọi thứ kỳ quái ấy đều thật sự tồn tại. Bắt đầu từ thời khắc này, hãy theo chân nhân vật chính bước vào thế giới đáng sợ của hung thủ, tìm kiếm tội ác và sự tàn nhẫn mà bạn sẽ chẳng thể tưởng tượng được…\n\nWaka trân trọng giới thiệu tác phẩm trinh thám, kinh dị Những vụ án kỳ bí của tác giả Diên Bắc Lão Cửu.",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Diên Bắc Lão Cữu",
+      "_id": {
+        "$oid": "661133b862f902a02569c4e8"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Thông Tin Và Truyền Thông",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Trinh thám - Kinh dị",
+      "_id": {
+        "$oid": "661003033ff31cc7d572a420"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6611348c62f902a02569c573"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/46993.jpg?v=1&w=350&h=510",
+  "nameBook": "[Tóm tắt sách] Flawless (Hoàn hảo)",
+  "descriptionBook": "Rhett là một tay đua bò, không những thế anh còn là tay đua bò vô địch, tuy nhiên vì vướng phải những ồn ào vạ miệng và làm mích lòng nhà tài trợ thì người quản lý của anh đã tìm cho anh một người \"trông coi\", đó chính là Summer. Cô nàng Summer xuất hiện trong cuộc đời Rhett như một định mệnh. Từ những người xa lạ chẳng ưa nhau cho đến dần tiếp xúc và hiểu nhau hơn, Rhett và Summer đã trở thành những người bạn, người tri kỷ và dần bị thu hút bởi đối phương.\n\nĐây là câu chuyện tình lãng mạn và không kém phần hài hước, thú vị của anh chàng dũng sĩ đua bò và cô nàng sinh viên luật mới tốt nghiệp trên cánh đồng quê thơ mộng.\n\nWaka trân trọng giới thiệu Flawless (tạm dịch Hoàn hảo) - Tác giả Elsie Silver!",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Elsie Silver",
+      "_id": {
+        "$oid": "6611348c62f902a02569c577"
+      }
+    }
+  ],
+  "publishingCompany": "Đang Cập Nhật",
+  "comments": [
+    {
+      "$oid": "6613cfb43122421ac2271b68"
+    }
+  ],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Ngôn tình",
+      "_id": {
+        "$oid": "661002d73ff31cc7d572a41c"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6611355762f902a02569c57f"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/46912.jpg?v=1&w=350&h=510",
+  "nameBook": "[Tóm tắt sách] Heartless (Nhẫn tâm)",
+  "descriptionBook": "Heartless - một câu chuyện tình yêu với những khoảnh khắc tán tỉnh ngọt ngào và lãng mạn của hai nhân vật chính: ông bố đơn thân Cade (38 tuổi) và người trông trẻ Willa (25 tuổi) được khắc họa rất đặc sắc, đọng lại nhiều cảm xúc cho độc giả.\nWaka trân trọng giới thiệu!",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Elsie Silver",
+      "_id": {
+        "$oid": "6611348c62f902a02569c577"
+      }
+    }
+  ],
+  "publishingCompany": "Đang cập nhật",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Ngôn tình",
+      "_id": {
+        "$oid": "661002d73ff31cc7d572a41c"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "661135b262f902a02569c58a"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/46882.jpg?v=1&w=350&h=510",
+  "nameBook": "Trầm tích sông Thao",
+  "descriptionBook": "Trong Trầm tích sông Thao, nhà văn Triệu Hồng đã có cách tạo lập một mô hình tiểu thuyết lịch sử theo một khung khổ, cấu trúc chặt chẽ. Đó là, tiểu thuyết lịch sử phải là văn bản tự sự có cốt truyện. Kết cấu tiểu thuyết phải theo thời gian, sự kiện, vụ việc, các trận chiến diễn ra theo đúng với lịch sử. Chính vì bám sát nguyên tắc trên nên trong 34 chương Trầm tích sông Thao, đã thấy được quy mô hoành tráng của tác phẩm, số lượng nhân vật đến hàng trăm mà vẫn mạch lạc. Các tuyến nhân vật vừa độc lập vừa đan cài với nhau để phục vụ cốt truyện, và cái chính yếu là, từ cốt truyện đã đưa ra những thông điệp mạnh mẽ, sâu sắc có giá trị lịch sử.\n\nNhân vật trung tâm của Trầm tích sông Thao là Hoàng Văn Thúy (Đề Kiều - Chánh tổng Điêu Lương, huyện Cẩm Khê sau này làm Phó soái cho lãnh tụ nghĩa quân Nguyễn Quan Bích). Nhân vật Đề Kiều đã thể hiện toàn diện nhất hình ảnh của người chí sĩ yêu nước, hết lòng lo việc nước. Đề Kiều là người tuyệt đối trung thành, cương trực và vô cùng bao dung, độ lượng. Khi lãnh tụ khởi nghĩa Nguyễn Quang Bích từ trần đã giao quyền chỉ huy cho ông và ông đã thực hiện xuất sắc nhiệm vụ của mình.\n\nNhân vật Đề Kiều cùng với nhân vật Nguyễn Quang Bích hiện lên trung thực và hấp dẫn chính là thành công của Trầm tích sông Thao.\nWaka trân trọng giới thệu tiểu thuyết lịch sử Trầm tích sông Thao - Tác giả: Nhà văn Triệu Hồng",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Triệu Hồng",
+      "_id": {
+        "$oid": "661135b262f902a02569c58e"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Hội Nhà Văn",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Truyện - Tiểu thuyết",
+      "_id": {
+        "$oid": "661003973ff31cc7d572a426"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6611361062f902a02569c596"
+  },
+  "labelBook": "MIỄN PHÍ",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/46828.jpg?v=1&w=350&h=510",
+  "nameBook": "Dinh dưỡng cho bệnh nhân ung thư",
+  "descriptionBook": "Theo thông cáo của WHO vào ngày 19 tháng Chín năm 2018: “Ung thư là nguyên nhân tử vong thứ hai trên toàn thế giới, gây ra cái chết của 9,6 triệu người vào năm 2018. Cứ sáu ca tử vong thì có một ca là do ung thư.” Thông tin đó cho thấy ung thư không còn là một căn bệnh hiếm gặp. Cũng trong năm đó, ở Việt Nam, tổng số bệnh nhân đã được chẩn đoán ung thư và còn sống trong vòng năm năm trở về trước là khoảng 354 nghìn người.\n\nThêm vào đó, ung thư còn là một căn bệnh nguy hiểm. Nguyên nhân không chỉ do tác động của xâm lấn và di căn, mà còn do ung thư thường tiến triển trong âm thầm. Điều trị ung thư sẽ hiệu quả nếu căn bệnh này được phát hiện sớm; nhưng điều trớ trêu lại nằm ở chỗ, ung thư không bộc lộ triệu chứng trong giai đoạn ban đầu, hoặc nếu có thì cũng rất ít và dễ bị bỏ qua. Nếu cứ để vậy, căn bệnh sẽ chỉ được phát hiện khi khối u đã lớn, lan tràn ra nhiều cơ quan khác, khiến quá trình điều trị trở nên khổ sở, tốn kém, và nhiều khi còn không có tác dụng. Một trong những phương cách để khắc phục tình trạng này là tầm soát ung thư; biện pháp đó đã được thực hiện rất hiệu quả với ung thư vú, ung thư cổ tử cung, nhưng vẫn còn hạn chế với nhiều loại ung thư khác, vì bản chất căn bệnh hay vì hạn chế kỹ thuật.\n\nBởi những nguyên do ấy, cách tốt nhất để đối phó với ung thư chính là phòng ngừa, tránh khỏi các tác nhân gây bệnh. Theo các ước tính, những nguyên nhân gây ung thư hàng đầu là thực phẩm, hút thuốc lá, uống rượu, nhiễm trùng hay nhiễm virus. Điều may mắn là hầu hết các nguyên nhân trên đều có thể được phòng tránh bằng cách thay đổi lối sống, và đặc biệt là điều chỉnh chế độ ăn – một phương pháp đơn giản, không khó thực hiện.\n\nVới mong muốn tổng hợp kiến thức phục vụ tra cứu lâm sàng, cũng như phổ biến thông tin cho cộng đồng về một trong những căn bệnh nhức nhối, dai dẳng và khó điều trị, tác giả Đái Duy Ban đã trình bày cuốn sách thành ba phần:\n\n- Tổng quan về ung thư: Cung cấp cho người đọc những thông tin cơ bản về căn bệnh nguy hiểm này, như quy mô bệnh ra sao, những nguyên nhân nào dẫn đến căn bệnh, cũng như các biện pháp để phòng và điều trị.\n\n- Dinh dưỡng phòng chống bệnh ung thư: Tác giả giúp độc giả biết nên tránh những yếu tố gì, cũng như ăn các thực phẩm nào để tránh ung thư.\n\n- Lương thực, thực phẩm phòng tránh các loại ung thư: Trình bày cụ thể mười loại ung thư và các loại thực phẩm phù hợp cho các loại ung thư đó.\nXuyên suốt cuốn sách là những kiến thức được trình bày kỹ càng, chi tiết, đi đến ngọn nguồn của vấn đề. Điều này khiến cuốn sách mang giá trị với nhiều đối tượng: Giới chuyên môn nghiên cứu có thể tham khảo, đại chúng có thể mở rộng kiến thức.\n\nWaka xin trân trọng giới thiệu Dinh dưỡng cho bệnh nhân ung thư!",
+  "price": 0,
+  "isFree": true,
+  "author": [
+    {
+      "name": "Nhiều tác giả",
+      "_id": {
+        "$oid": "6611361062f902a02569c59a"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Dân Trí",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66080ff75e925fda4b7ce389"
+  },
+  "genres": [
+    {
+      "name": "Sức khỏe - Làm đẹp",
+      "_id": {
+        "$oid": "6610036c3ff31cc7d572a423"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66124bd17db9a6069958d616"
+  },
+  "labelBook": "29000",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47938.jpg?v=1&w=350&h=510",
+  "nameBook": "Sống lời Chúa - Bayard Việt Nam - Tháng 05/2024",
+  "descriptionBook": "Sách Sống Lời Chúa được phát hành hàng tháng, là người bạn đồng hành mỗi ngày sống để giúp bạn thăng tiến đời sống thiêng liêng qua việc lắng nghe và cầu nguyện với Lời Chúa.\nMời các bạn cùng đón đọc số tháng 5/2024!",
+  "price": 29000,
+  "isFree": false,
+  "author": [
+    {
+      "name": "Bayard",
+      "_id": {
+        "$oid": "66124bd17db9a6069958d61a"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Tôn Giáo",
+  "comments": [
+    {
+      "$oid": "6616940f8658ebfd9bdea574"
+    }
+  ],
+  "categoryProduct": {
+    "$oid": "66124b917db9a6069958d5eb"
+  },
+  "genres": [
+    {
+      "name": "Tâm Linh - Tôn Giáo",
+      "_id": {
+        "$oid": "66124b127db9a6069958d54d"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6612aa1f917e29e62d0ca8ae"
+  },
+  "labelBook": "79000",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47908.jpg?v=1&w=350&h=510",
+  "nameBook": "The Path - Con đường khai tâm - Ấn Độ tâm linh ký",
+  "descriptionBook": "“The Path – Con Đường Khai Tâm – Ấn Độ Tâm Linh Ký” của tác giả Tạ Minh Tuấn là một cuốn sách mang đến cho bạn đọc những giá trị tốt đẹp của cuộc sống thông qua những câu chuyện tâm linh cổ xưa ở Ấn Độ. Sự giản dị và vẻ đẹp được các nhân vật trong sách truyền tải mang đến cho chúng ta một cái nhìn sâu sắc về sự thật. Cuốn sách sẽ giúp bạn mở mang tâm hồn, tìm thấy hướng đi và khai mở những con đường mới trong cuộc sống. Đọc “The Path – Con Đường Khai Tâm – Ấn Độ Tâm Linh Ký” sẽ là một trải nghiệm tuyệt vời cho tâm hồn của bạn.\n\nThe Path – Con Đường Khai Tâm – Ấn Độ Tâm Linh Ký là một cuốn sách tâm linh đầy ấn tượng của tác giả Tạ Minh Tuấn. Cuốn sách này đưa bạn đọc vào một hành trình khám phá sự thật về cuộc sống và giúp họ đạt tới trạng thái bình an trong tâm hồn. Tác giả sử dụng ngôn ngữ đơn giản, dễ hiểu để truyền đạt những bài học sâu sắc về cuộc sống. Điểm nhấn của cuốn sách là sự kết hợp hoàn hảo giữa sự đẹp đẽ và giản dị của những chân lý tâm linh. Nếu bạn muốn tìm kiếm sự an tâm và hạnh phúc trong cuộc sống, cuốn sách The Path – Con Đường Khai Tâm – Ấn Độ Tâm Linh Ký sẽ là một nguồn cảm hứng và sự chỉ dẫn tuyệt vời.\n\nWaka xin trân trọng giới thiệu The Path - Con đường khai tâm - Ấn Độ tâm linh ký - Tạ Minh Tuấn!",
+  "price": 79000,
+  "isFree": false,
+  "author": [
+    {
+      "name": "Tạ Minh Tuấn",
+      "_id": {
+        "$oid": "6612aa1f917e29e62d0ca8b2"
+      }
+    }
+  ],
+  "publishingCompany": "NXB Dân Trí",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66124b917db9a6069958d5eb"
+  },
+  "genres": [
+    {
+      "name": "Phát Triển Cá Nhân",
+      "_id": {
+        "$oid": "6612a9c0917e29e62d0ca87d"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6613d22d3122421ac2271d50"
+  },
+  "labelBook": "19000",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47899.jpg?v=1&w=350&h=510",
+  "nameBook": "20 Bộ đề thi THPT Quốc gia môn Toán 2024",
+  "descriptionBook": "Chào mừng đến với \"20 BỘ ĐỀ THI THPT QUỐC GIA MÔN TOÁN 2024\" Cuốn sách này là một nguồn tài liệu quý giá được biên soạn đặc biệt để giúp các bạn học sinh chuẩn bị cho kỳ thi môn Toán một cách tự tin và hiệu quả.\n\nToán là một trong những môn học quan trọng nhất trong chương trình giáo dục và đó cũng là một trong những môn thi đòi hỏi sự kiên nhẫn và khả năng tư duy logic. Để đạt được thành công trong kỳ thi Toán, việc thực hành trên các đề thi mẫu là rất quan trọng. Điều này giúp học sinh làm quen với định dạng của đề thi, cũng như rèn luyện kỹ năng làm bài dựa trên các dạng câu hỏi thường gặp.\n\n\"20 BỘ ĐỀ THI THPT QUỐC GIA MÔN TOÁN 2024\" bao gồm một loạt các đề thi mẫu được lựa chọn kỹ lưỡng từ các kỳ thi trước đây, từ cơ bản đến nâng cao, cung cấp một bước nhảy vọt cho việc ôn tập và kiểm tra kiến thức của bạn. Mỗi đề thi được thiết kế để phản ánh cả phần kiến thức và kỹ năng yêu cầu theo chương trình giáo dục quốc gia.\n\nNgoài việc giúp học sinh quen với định dạng và cấu trúc của đề thi, cuốn sách còn cung cấp lời giải chi tiết và phân tích cho từng câu hỏi. Điều này giúp học sinh hiểu rõ hơn về cách giải các bài toán, cũng như cung cấp gợi ý và chiến lược để làm bài một cách hiệu quả nhất.\n\nHy vọng rằng \"20 BỘ ĐỀ THI THPT QUỐC GIA MÔN TOÁN 2024\" sẽ trở thành một công cụ hữu ích và đồng hành đáng tin cậy trong hành trình ôn tập và chuẩn bị cho kỳ thi của bạn. Chúc các bạn thành công và tỏa sáng trong môn học quan trọng này!\n\nWaka xin trân trọng giới thiệu 20 BỘ ĐỀ THI THPT QUỐC GIA MÔN TOÁN 2024.",
+  "price": 19000,
+  "isFree": false,
+  "author": [
+    {
+      "name": "Ban biên tập Waka",
+      "_id": {
+        "$oid": "6613d22d3122421ac2271d54"
+      }
+    }
+  ],
+  "publishingCompany": "Đang cập nhật",
+  "comments": [
+    {
+      "$oid": "66168960ae39be9a28dc2b25"
+    }
+  ],
+  "categoryProduct": {
+    "$oid": "66124b917db9a6069958d5eb"
+  },
+  "genres": [
+    {
+      "name": "Giáo dục - Văn hóa & Xã hội",
+      "_id": {
+        "$oid": "6613d1bb3122421ac2271d20"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "661734457e64d3da4f065a14"
+  },
+  "labelBook": "19000",
+  "imgBook": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/47884.jpg?v=1&w=350&h=510",
+  "nameBook": "20 Bộ đề thi THPT Quốc gia môn Tiếng Anh 2024",
+  "descriptionBook": "Chào mừng đến với \"20 BỘ ĐỀ THI THPT QUỐC GIA MÔN TIẾNG ANH 2024\" Cuốn sách này là một nguồn tài liệu quý giá được biên soạn đặc biệt để giúp các bạn học sinh chuẩn bị cho kỳ thi môn Tiếng Anh một cách hiệu quả và tự tin.\n\nTiếng Anh là ngôn ngữ phổ biến nhất trên thế giới và việc thành thạo nó không chỉ là một kỹ năng quan trọng mà còn là một yêu cầu đặt ra trong nhiều ngữ cảnh học tập và nghề nghiệp. Để đạt được thành công trong kỳ thi Tiếng Anh, việc thực hành trên các đề thi mẫu là rất quan trọng. Điều này giúp học sinh làm quen với định dạng của đề thi, cũng như rèn luyện kỹ năng làm bài dựa trên các dạng câu hỏi thường gặp.\n\n\"20 BỘ ĐỀ THI THPT QUỐC GIA MÔN TIẾNG ANH 2024\" bao gồm một loạt các đề thi mẫu được lựa chọn kỹ lưỡng từ các kỳ thi trước đây, cung cấp một bước nhảy vọt cho việc ôn tập và kiểm tra kiến thức của bạn. Mỗi đề thi được thiết kế để phản ánh cả phần kiến thức và kỹ năng yêu cầu theo các tiêu chuẩn quốc tế.\n\nNgoài việc giúp học sinh quen với định dạng và cấu trúc của đề thi, cuốn sách còn cung cấp lời giải chi tiết và phân tích cho từng câu hỏi. Điều này giúp học sinh hiểu rõ hơn về cách trả lời câu hỏi, cũng như cung cấp gợi ý và chiến lược để làm bài một cách hiệu quả nhất.\n\nHy vọng rằng \"20 BỘ ĐỀ THI THPT QUỐC GIA MÔN TIẾNG ANH 2024\" sẽ trở thành một công cụ hữu ích và đồng hành đáng tin cậy trong hành trình ôn tập và chuẩn bị cho kỳ thi của bạn. Chúc các bạn thành công và tỏa sáng trong việc học và sử dụng Tiếng Anh!\nWaka xin trân trọng giới thiệu \"20 BỘ ĐỀ THI THPT QUỐC GIA MÔN TIẾNG ANH 2024\".",
+  "price": 19000,
+  "isFree": false,
+  "author": [
+    {
+      "name": "Ban biên tập Waka",
+      "_id": {
+        "$oid": "6613d22d3122421ac2271d54"
+      }
+    }
+  ],
+  "publishingCompany": "Đang cập nhật",
+  "comments": [],
+  "categoryProduct": {
+    "$oid": "66124b917db9a6069958d5eb"
+  },
+  "genres": [
+    {
+      "name": "Giáo dục - Văn hóa & Xã hội",
+      "_id": {
+        "$oid": "6613d1bb3122421ac2271d20"
+      }
+    }
+  ],
+  "__v": 1
+}]
